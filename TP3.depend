@@ -37,3 +37,26 @@
 	<malloc.h>
 	"World.h"
 
+1644912501 source:c:\users\zefin\documents\polytech\s4\info403\tp\tp4\tp4-20220215\tp4-squelette\tp3-squelette\tp3-squelette\world.c
+	<stdio.h>
+	<malloc.h>
+	"World.h"
+
+1644911151 c:\users\zefin\documents\polytech\s4\info403\tp\tp4\tp4-20220215\tp4-squelette\tp3-squelette\tp3-squelette\world.h
+	<stddef.h>
+	"pile.h"
+
+1644910362 c:\users\zefin\documents\polytech\s4\info403\tp\tp4\tp4-20220215\tp4-squelette\tp3-squelette\tp3-squelette\pile.h
+	<stddef.h>
+
+1644913118 source:c:\users\zefin\documents\polytech\s4\info403\tp\tp4\tp4-20220215\tp4-squelette\tp3-squelette\tp3-squelette\pile.c
+	<stdio.h>
+	<malloc.h>
+	"pile.h"
+
+1644911476 source:c:\users\zefin\documents\polytech\s4\info403\tp\tp4\tp4-20220215\tp4-squelette\tp3-squelette\tp3-squelette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"World.h"
+

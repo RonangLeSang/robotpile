@@ -26,4 +26,12 @@ void read_command(char* commande){
     fflush(stdout);
     fgets(commande, COMMAND_LINE_MAX, stdin);
 }
+/**/
+void initialiser_monde(World * monde){
+    int i;
+    (*monde).bras = 0;
+    for(i=0; i<NB_PILE_MAX; i++){ /*initialisation des piles a NULL*/
+        (*monde).cubes[i] = NULL;
+    }
+}
 

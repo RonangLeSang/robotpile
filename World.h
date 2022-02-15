@@ -19,11 +19,11 @@
 
 
 
+
 typedef struct {
 
-    /**
-         A COMPLETER
-    **/
+    int bras; /*bras et son contenu (0 si vide et autre si un cube est present) */
+    pile cubes[NB_PILE_MAX]; /*liste cubes présent sur la table*/
 
 } World;
 

@@ -9,6 +9,13 @@
 #include <stddef.h>
 
 
+struct cube {
+    int num; /*numero du cube*/
+    struct cube *suivant;
+};
 
+typedef struct cube *pile;
 
 #endif
+
+
