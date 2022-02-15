@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1524230754 source:c:\users\pernelle\downloads\blocksworld\tp3-squelette\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"World.h"
+
+1524230754 c:\users\pernelle\downloads\blocksworld\tp3-squelette\world.h
+	<stddef.h>
+	"pile.h"
+	"pretty_print.h"
+
+1524230754 c:\users\pernelle\downloads\blocksworld\tp3-squelette\pile.h
+	<stddef.h>
+
+1524230754 c:\users\pernelle\downloads\blocksworld\tp3-squelette\pretty_print.h
+	<curses.h>
+	"World.h"
+
+1524230754 c:\users\pernelle\downloads\blocksworld\tp3-squelette\pdcurses\include\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1524230754 source:c:\users\pernelle\downloads\blocksworld\tp3-squelette\pile.c
+	<stdio.h>
+	<malloc.h>
+	"pile.h"
+
+1524230754 source:c:\users\pernelle\downloads\blocksworld\tp3-squelette\pretty_print.c
+	"World.h"
+	"pretty_print.h"
+
+1524230754 source:c:\users\pernelle\downloads\blocksworld\tp3-squelette\world.c
+	<stdio.h>
+	<malloc.h>
+	"World.h"
+
